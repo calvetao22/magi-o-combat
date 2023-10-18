@@ -1,0 +1,3 @@
+//AAAAAAAAAAA
+
+vida = 10;
