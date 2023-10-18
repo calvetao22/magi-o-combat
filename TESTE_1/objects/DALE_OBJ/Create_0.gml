@@ -1,4 +1,7 @@
 //AAAAAAAAAAA
 
-vida = 10;
-velocidade = 5;
+vida = 100;
+mana = 100;
+dano = 15;
+passiva = "";
+classe = "";
