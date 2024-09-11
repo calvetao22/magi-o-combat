@@ -1,5 +1,11 @@
 public static void teste_doido()
 {
 	string path = @"./arquivo.txt";
-	FileStream file = File.ReadFile(path);	
-}
+	FileStream file = File.ReadFile(path);
+
+	asdfj lkasjdfçlksa
+		slkjflks
+	sdpfkgdçslfkgkdf
+	çfsdjgkçlsdfj
+	sdfklgsdfklj
+}	
