@@ -1,0 +1,5 @@
+public static void teste_doido()
+{
+	string path = @"./arquivo.txt";
+	FileStream file = File.ReadFile(path);	
+}
